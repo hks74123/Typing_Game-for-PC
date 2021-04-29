@@ -9,7 +9,7 @@ tme=0;
 d=0;
 x="";
 jj=0;
-a=["<This is a typing game_in WhichYou can improve your typing","<This_IS stage2 SO In this __stage=TryTooDo Thiss With less ERRORS ANd more accuraCY---and==Try_ToImProVE"]
+a=[">This is a typing game_in WhichYou can improve your typing",">This_IS stage2 SO In this __stage=TryTooDo Thiss With less ERRORS ANd more accuraCY---and==Try_ToImProVE"]
 l=a.length;
 s=a[jj]
 y=document.getElementById('btn'+65);
