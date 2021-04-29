@@ -1,0 +1,114 @@
+*{background: #7F00FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E100FF, #7F00FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E100FF, #7F00FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+button{
+    background: white;
+    width: 50px;
+    height: 50px;
+}
+.keys{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+.top_row{
+    display: block;
+    width: 700px;
+    margin: auto;
+}
+.first_row{
+    display: block;
+    width: 540px;
+    margin: auto;
+    margin-top: 5px;
+}
+.second_raw{
+    width: 485px;
+    margin: auto;
+    margin-top: 5px;
+}
+.third_row{
+    width: 390px;
+    margin: auto;
+    margin-top: 5px;
+}
+.sbtn{
+    width: 320px;
+    margin: auto;
+    margin-top: 5px;
+}
+#btn32{
+    height: 50px;
+    width: 300px;
+}
+#in{
+    display: block;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+#inn{
+    width: 500px;
+    font-size: 35px;
+    background: cyan;
+}
+.stopbtn{
+    /* display: inline-block; */
+    width: 100%;
+    margin-top: 30px;
+
+}
+#b00{
+    background: black;
+    color: white;
+    border: 4px solid white;
+    border-radius: 15px;
+    display: inline-block;
+    width: 170px;
+    margin-left: 320px;
+    cursor: pointer;
+    font-size: 25px;
+}
+#b01{
+    background: black;
+    color: white;
+    border: 4px solid white;
+    border-radius: 15px;
+    display: inline-block;
+    width: 170px;
+    /* margin: auto; */
+    margin-left: 60px;
+    cursor: pointer;
+    font-size: 25px;
+}
+#b01:hover{
+    background: white;
+    color: black;
+    border: 4px solid black;
+}
+#b00:hover{
+    background: white;
+    color: black;
+    border: 4px solid black;
+}
+.scr{
+    width: 60%;
+    height: 59px;
+    margin: auto;
+    margin-top: 30px;
+    /* border: 2px solid red; */
+    /* background: orange; */
+    /* text-align: center; */
+}
+div span{
+    /* background: orange; */
+    font-size: 50px;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+#dd1{
+    margin-left: 100px;
+}
