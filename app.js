@@ -89,3 +89,6 @@ function start(){
     document.getElementById('dd1').innerText='Time:'+ddd;
     document.getElementById('dd3').innerText='Acuu: 0'
 }
+window.onload = function(){ 
+    alert("Game Rules: This Game will start when you will press the first character on your Keyboard");
+    }
